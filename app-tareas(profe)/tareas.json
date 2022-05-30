@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Leer un capitulo del libro",
+        "estado": "en progreso" 
+    },
+    {
+        "titulo": "Ir al gimnasio",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Asistir a clases",
+        "estado": "terminada"
+    }
+]
