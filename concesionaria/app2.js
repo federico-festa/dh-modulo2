@@ -60,5 +60,3 @@ const concesionaria = {
 //1. Lista de autos en venta
 //2. Para cada auto prueba si puede comprar.
 //3. Devuelve lista (1) filtrada segun condicion (2). 
-
-//Probando git. 
